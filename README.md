@@ -7,8 +7,6 @@ dependency
 - jQuery
 
 
-```
-
 Usage
 -------
 
