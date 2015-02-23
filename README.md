@@ -2,6 +2,12 @@ hg-offcanvas
 =======
 jQuery and CSS plugin to build your offcanvas website.
 
+download
+------
+you can down load from here
+
+https://github.com/steelydylan/hg-offcanvas/archive/master.zip
+
 dependency
 ------
 - jQuery
